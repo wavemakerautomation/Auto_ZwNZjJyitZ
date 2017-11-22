@@ -6,7 +6,7 @@ var _WM_APP_PROPERTIES = {
   "homePage" : "Main",
   "name" : "Auto_ZwNZjJyitZ",
   "platformType" : "WEB",
-  "securityEnabled" : "false",
+  "securityEnabled" : "true",
   "supportedLanguages" : "en",
   "timeFormat" : "",
   "type" : "APPLICATION",
